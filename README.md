@@ -5,7 +5,7 @@
 | **Author:** | Qifan Huang |
 | **Date:** | June 1st, 2018 |
 | **Email** | qifan@uw.edu |
-| **License:**| ParallelComputingBayesianInference is released under the MIT license.|
+| **License:**| Bayesian Inference Pipeline with Parallel Computing  is released under the MIT license.|
 
 &nbsp;
 ## Description
