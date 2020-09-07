@@ -1,5 +1,4 @@
-# ParallelComputingBayesianInference
-BIOST534 Statistical Computing Final Project 
+# Bayesian Inference Pipeline with Parallel Computing 
 
 | INTRODUCTION  | README |
 | :-----: | :------: |
@@ -10,8 +9,7 @@ BIOST534 Statistical Computing Final Project
 
 &nbsp;
 ## Description
-A C++ parallel program using the Master/Slave scheme. This program aims to do Bayesian inference in logistic regression and implements  Metropolis-Hastings Algorithm
-
+Built and prototyped the Master/Slave scheme of Metropolis-Hastings algorithm for Bayesian logistic regression.
 
    
 
